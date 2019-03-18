@@ -1,3 +1,8 @@
+#Peirong Lin (uploaded 2019-03-17)
+#Main program for bias-correction
+#Needs input from 0_generate_pixels.py
+#Self-made parallel processing controlled by control.py
+
 import pandas as pd
 from netCDF4 import Dataset
 import xarray as xr
