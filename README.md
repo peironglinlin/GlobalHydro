@@ -17,3 +17,6 @@ Global high-resolution streamflow modeling at 2.94 million river reaches extract
 
 More info: contact Peirong Lin (peirongl@princeton.edu) for questions
 March 2019
+
+Reference: Lin, P., M. Pan, H.E. Beck, et al. (2019, submitted to WRR): Global reconstruction of naturalized river flows at 2.94 million reaches.
+
